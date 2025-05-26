@@ -1,0 +1,25 @@
+{
+  "sessionName": "session",
+  "botPrefix": "!",
+  "ownerNumber": "5511963330824",
+  "ownerName": "Valmir",
+  "botName": "BotIPTV",
+  "autoWelcome": true,
+  "autoReply": true,
+  "timezone": "America/Sao_Paulo",
+  "language": "pt-br",
+  "autoReconnect": true,
+  "replyMessages": {
+    "menuEncerrado": "✅ Atendimento encerrado. Segue o menu novamente:",
+    "menu": "🗂️ *Olá, seja bem-vindo(a) à Canais Legais!*\n\n1️⃣ Planos e preços\n2️⃣ Formas de pagamento\n3️⃣ Problemas técnicos\n4️⃣ Falar com um atendente",
+    "invalidOption": "❌ Opção inválida. Por favor, digite um número de 1 a 4.",
+    "humanSupport": "🤝 Você será atendido por um humano em breve. Para voltar ao menu, envie *menu*.",
+    "planos": "📺 Nosso plano mensal custa R$ 35,00 com mais de 5.000 canais e suporte 24h.",
+    "pagamento": "💳 Aceitamos Pix, boleto e cartão. Qual forma de pagamento você prefere?",
+    "problemasComum": {
+      "travando": "⚙️ Tente reiniciar seu roteador e o app da IPTV. Isso resolve na maioria dos casos.",
+      "sem Canal": "📡 Verifique sua conexão com a internet e reinicie o aplicativo da IPTV.",
+      "erro": "🛠️ Verifique se o app está atualizado. Se persistir, envie um print da tela com o erro."
+    }
+  }
+}
